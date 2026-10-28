@@ -37,22 +37,23 @@ To post a video Status,
   If you trim it to six seconds or less, the **GIF** icon appears. Tap it to convert your video into a gif. 
    * **Mute:** Tap the sound icon to disable the original sound of the video.
 
-5. (Optional) Select your audience by performing the following actions: 
+5. (Optional) Select your audience by performing the following actions:
+   
    a. In the bottom-left corner of the screen, tap **Status**.  
    &nbsp;&nbsp;&nbsp;&nbsp;The **Choose audience** bottom sheet appears.  
-   b. Select one of the following options: 
+   b. Select one of the following options:
    
-      * **My contacts:** Allows all your WhatsApp contacts to view your Status.
+   * **My contacts:** Allows all your WhatsApp contacts to view your Status.
    * **My contacts except:** Exclude specific contacts from viewing your Status.
    * **Only share with…:** Select specific contacts who can view your Status.   
-  <br>
-  
-   **Note:** You can tap the two-arrow icon next to share to allow your audience to share your status.     
+    
+   **Note:** You can tap the two-arrow icon next to share to allow your audience to share your status.
+     
    c. Tap **Share**.   
    
 
    
-6. Tap the share icon at the bottom-right corner.
+7. Tap the share icon at the bottom-right corner.
 
 The video is posted as your Status. Your audience can view and react to it. 
 
