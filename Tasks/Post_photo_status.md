@@ -13,7 +13,7 @@ To post a photo as your Status,
     *  Tap the camera icon at the bottom-right corner. 
 A screen displays thumbnails of the media on your device, along with the available Status options.
 **Note:** Tap **Layout**  to post up to 6 photos.
-For more information, see [Post a layout Status](/Post_layout_status.md).
+For more information, see [Post a layout Status](/Tasks/Post_layout_status.md).
 3.	Select a photo using one of the following methods:   
     *    **From media:** Select a photo from the displayed media.
     *    **From album:** Tap **Recents** and select a photo from your desired album.
