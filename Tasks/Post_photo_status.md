@@ -3,6 +3,7 @@
 WhatsApp allows you to post different types of media as your Status. The procedure below explains how to post a photo as your Status.   
 
 **Prerequisite**
+
 A photo on your device if you want to post an existing photo.   
 
 To post a photo as your Status,

@@ -1,6 +1,6 @@
 # Post a video Status   
 
-You can use the Status feature to share a video with your contacts. This topic describes how to post a video Status on your Android phone.   
+You can use the Status feature to share a video with your contacts. The procedure below explains how to post a video Status.   
 
 **Prerequisite**   
 
