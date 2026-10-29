@@ -2,7 +2,8 @@
 
 You can share more than one photo as your Status using the **Layout** option. The procedure below explains how you can post a layout Status.
 
-**Prerequisite**
+**Prerequisite**   
+
 At least two photos available on device.
 
 To post a layout Status,
