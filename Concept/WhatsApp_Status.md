@@ -30,9 +30,7 @@ Your contacts can view, like, reply, or react to your Status updates from the **
 
 WhatsApp protects your Status using end-to-end encryption. This means that not even WhatsApp can access the content of your Status.
 
-By default, all your contacts can see your Status updates. You can control who can see them by using the **Status privacy** setting. 
-
-WhatsApp also allows you to select your audience before posting a Status. Further, you can mention up to five contacts or groups in your Status. For more information about Status mentions, see [Individual and group mentions](/Reference/Individual_and_group_mentions.md). 
+By default, all your contacts can see your Status updates. You can control who can see them using the **Status privacy** setting. WhatsApp also lets you select your audience before posting a Status. Further, you can mention up to five contacts or groups in your Status. For more information, see [Individual and group mentions](/Reference/Individual_and_group_mentions.md). 
 
 WhatsApp privately notifies the contacts or groups you mention. Other contacts cannot see whom you mentioned. The mentioned contacts or group members can reshare your Status. Their audience can only see the Status content. WhatsApp does not share your name, profile information, or phone number with that audience.  
 
