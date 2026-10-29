@@ -1,6 +1,6 @@
 # Update your WhatsApp Status: A quick start guide
 
-The Status feature lets you share different types of content with a selected. Each Status update disappears 24 hours after you post it. This guide explains how to create different types of Status updates on Android. It includes the following topics:
+The Status feature lets you share different types of content with a selected audience. Each Status update disappears 24 hours after you post it. This guide explains how to create different types of Status updates on Android. It includes the following topics:
 
 * **Overview** 
      * [Understand WhatsApp Status](/Concept/WhatsApp_Status.md)
